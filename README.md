@@ -7,6 +7,12 @@
 This repository is for educational purposes only.\
 Do not use any implementation for securing sensitive data in production environments.
 
+## Contributors
+
+<a href="https://github.com/CalciumConsumer/Encryptorium/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=CalciumConsumer/Encryptorium" />
+</a>
+
 ## Introduction
 a collection of cryptographic implementations spanning classical ciphers to modern algorithms.\
 This repository is a implement-wise exploration of cryptographical algorithms, intended for educational purposes and cryptography enthusiasts.
